@@ -1,6 +1,7 @@
 # MyWhatsApp
  
 This repository contains the source code (react-app) for a chatroom which resembles Whatsapp-web(web version of whatsapp) in UI design.
+I have used the front end part of the code from my previous repo ( Whatsapp-design).
 It uses google authentication.
 It is hosted on Firebase.
 You can chat in exisiting rooms or open a new chat room.
