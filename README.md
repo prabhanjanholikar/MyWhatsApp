@@ -8,7 +8,7 @@ You can chat in exisiting rooms or open a new chat room.
 
 
 
-LIVE SITE : https://whatsapp2-f48bf.web.app/
+LIVE SITE : https://realtime-chatrooms-46970.web.app/
 
 IMAGE:
 ![image](https://user-images.githubusercontent.com/78643058/123627446-a2b89380-d82f-11eb-8508-dee533eb6ee4.png)
